@@ -6,3 +6,6 @@ djangorestframework
 Pillow
 python-dotenv
 django-environ
+django-crispy-forms
+crispy-bootstrap5
+
